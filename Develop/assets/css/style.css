@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*added the commas to fonts*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* added commas to the fonts*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -136,7 +136,7 @@ p {
 
 
 
-
+/*grouped classes togther*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
